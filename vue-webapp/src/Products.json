@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Adifom Superstar",
+    "detail": "ทรงเรกูลาร์ ดีไซน์สลิปออน ",
+    "coverimage": "src/assets/img/Adifom Superstar.jpeg",
+    "price": "$2,800"
+  },
+  {
+    "id": 2,
+    "name": "Adilette Aqua",
+    "detail": "สัมผัสเบาสบาย ผลิตจากวัสดุที่แห้งไว",
+    "coverimage": "src/assets/img/Adilette Aqua.jpeg",
+    "price": "$800"
+  },
+  {
+    "id": 3,
+    "name": "Samba OG",
+    "detail": "อัปเปอร์ทำจากหนังฟูลเกรน แต่งดีเทลด้วยหนังซูเอดผิวหยาบและฟอยล์สีทอง",
+    "coverimage": "src/assets/img/Samba OG.jpeg",
+    "price": "$3,800"
+  },
+  {
+    "id": 4,
+    "name": "HANDBALL SPEZIAL J",
+    "detail": "ทรงเรกูลาร์ มีเชือกผูกรองเท้า",
+    "coverimage": "src/assets/img/HANDBALL SPEZIAL J.jpeg",
+    "price": "$2,800"
+  },
+  {
+    "id": 5,
+    "name": "Grand Court TD Lifestyle Court",
+    "detail": "ทรงเรกูลาร์ มีเชือกผูกรองเท้า",
+    "coverimage": "src/assets/img/Grand Court TD Lifestyle Court.jpeg",
+    "price": "$2,100"
+  },
+  {
+    "id": 6,
+    "name": "Breaknet 2.0",
+    "detail": "มีเชือกผูกรองเท้า อัปเปอร์ทำจากวัสดุสังเคราะห์",
+    "coverimage": "src/assets/img/Breaknet 2.0.jpeg",
+    "price": "$2,000"
+  },
+  {
+    "id": 7,
+    "name": "Court",
+    "detail": "แผ่นรองฝ่าเท้า Cloudfoam Comfort ด้านในรองเท้าซับด้วยผ้า",
+    "coverimage": "src/assets/img/Court.jpeg",
+    "price": "$2,100"
+  },
+  {
+    "id": 8,
+    "name": "Forum Bold",
+    "detail": "แผ่นรองฝ่าเท้าทำจากผ้าตาข่าย ",
+    "coverimage": "src/assets/img/Forum Bold.jpeg",
+    "price": "$4,000"
+  },
+  {
+    "id": 9,
+    "name": "Rivalry Crepe",
+    "detail": "อัปเปอร์ทำจากหนังซูเอด ด้านในรองเท้าบุด้วยหนัง พื้นคัพโซลทำจากยาง แต่งขอบด้วยผ้าเครป ",
+    "coverimage": "src/assets/img/Rivalry Crepe.jpeg",
+    "price": "$5,500"
+  },
+  {
+    "id":10,
+    "name": "Rivalry Low",
+    "detail": "ด้านในรองเท้าซับด้วยผ้าเทอร์รีย์ พื้นชั้นกลางแทรกแผ่น EVA ",
+    "coverimage": "src/assets/img/Rivalry Low.jpeg",
+    "price": "$3,500"
+  }
+
+]
